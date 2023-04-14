@@ -1,0 +1,27 @@
+[
+    {
+        "code": "1abc",
+        "name": "WEATHER SEAL ALDERON RS - WS RS ROMA",
+        "description": "alderon weather seal set untuk ALDERON RS ROMA TRIMDEK GRECA",
+        "price": 73000,
+        "UOM": "pcs",
+        "UserId": 1
+    },
+    {
+        "code": "2abc",
+        "name": "OCI S-100 Adhesive PVC Solvent (500GR)",
+        "description": "OCI S100 PVC Solvent Cement adalah Adhesif berwarna bening dan cair, Cepat “set” dan cocok digunakan untuk pipa PVC",
+        "price": 46100,
+        "UOM": "sheet",
+        "UserId": 1
+    },
+    {
+        "code": "3abc",
+        "name": "ECOLITE Tebal 0.6mm Atap PET (Polyethylene) - 1,8m",
+        "description": "ATAP GELOMBANG PLASTIK BERBAHAN POLYETHYLENE TEREPTHALETE KETEBALAN 0,6MM",
+        "price": 432000,
+        "UOM": "roll",
+        "UserId": 1
+    }
+
+]
